@@ -18,7 +18,7 @@ Indeed, despite the fact that XSS is a common vulnerability, it remains one of t
 
 ## How does XSS work?
 
-![](KWzNGLttm7.png)
+![](https://i.imgur.com/6n7lsIg.png)
 
 Cross-site scripting works by manipulating a vulnerable web site so that it returns malicious JavaScript to users. When the malicious code executes inside a victim's browser, the attacker can fully compromise their interaction with the application.
 
